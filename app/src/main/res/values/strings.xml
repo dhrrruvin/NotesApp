@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="save">Save</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+</resources>
