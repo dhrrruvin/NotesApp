@@ -4,5 +4,7 @@
 
     <item android:title="@string/delete_all_notes"
         android:id="@+id/delete_all_notes"
-        app:showAsAction="never"/>
+
+        app:showAsAction="never"
+        />
 </menu>
